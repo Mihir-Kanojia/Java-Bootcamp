@@ -27,8 +27,8 @@ class MainClass {
         redFruit.marketPrice = 100;
         blueFruit.marketPrice = 300;
 
-        System.out.println(redFruit.fruitName+" ₹"+blueFruit.marketPrice);
-        System.out.println(blueFruit.fruitName+" ₹"+redFruit.marketPrice);
+        System.out.println(redFruit.fruitName+" ₹"+redFruit.marketPrice);
+        System.out.println(blueFruit.fruitName+" ₹"+blueFruit.marketPrice);
     }
 
 }
